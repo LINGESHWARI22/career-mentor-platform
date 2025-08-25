@@ -1,4 +1,4 @@
-AI-Powered Career Mentorship & Job Prep Platform
+# 🌟✨ AI-Powered Career Mentorship & Job Prep Platform ✨🌟
 
 An intelligent full-stack platform that helps students and professionals with career guidance, mentorship, and job preparation.
 It combines modern web development with AI-powered features, offering a personalized experience for users.
@@ -71,3 +71,4 @@ Backend API → http://localhost:5000
  Mock Interview Simulator
  Mentor–Student Chat System (WebSockets)
  Job Recommendation Engine
+
