@@ -3,6 +3,7 @@
 An intelligent full-stack platform that helps students and professionals with career guidance, mentorship, and job preparation.
 It combines modern web development with AI-powered features, offering a personalized experience for users.
 
+
 🌟 Key Features
 🔐 Secure Authentication (Register/Login with JWT & bcrypt)
 🧑‍💼 Career Mentorship Portal – Connect with mentors and get personalized advice
@@ -19,7 +20,8 @@ Authentication: JWT, bcrypt
 AI Services (Planned): OpenAI / LLMs for resume feedback & mentorship Q&A
 Tools & DevOps: Docker, Git, GitHub, VS Code
 
-📂 Project Structure
+📂 Project Structure 
+
 career-mentor-platform/
 │── ai-service/      
 │── client/          
@@ -71,4 +73,5 @@ Backend API → http://localhost:5000
  Mock Interview Simulator
  Mentor–Student Chat System (WebSockets)
  Job Recommendation Engine
+
 
