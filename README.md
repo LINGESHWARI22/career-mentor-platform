@@ -7,10 +7,15 @@ It combines modern web development with AI-powered features, offering a personal
 Key Features
 
 Secure Authentication (Register/Login with JWT & bcrypt)
+
 Career Mentorship Portal – Connect with mentors and get personalized advice
+
 AI-Powered Job Preparation – Resume feedback, interview tips, and career guidance (planned)
+
 Dashboard – User-friendly dashboard to track learning and mentorship progress
+
 Modern Full-Stack Development – Built with React, Node.js, Express & MongoDB
+
 Responsive UI – Optimized for desktop and mobile
 
 Tech Stack
@@ -78,6 +83,7 @@ Backend API → http://localhost:5000
  Mock Interview Simulator
  Mentor–Student Chat System (WebSockets)
  Job Recommendation Engine
+
 
 
 
