@@ -23,6 +23,7 @@ Tools & DevOps: Docker, Git, GitHub, VS Code
 📂 Project Structure 
 
 career-mentor-platform/
+
 │── ai-service/      
 │── client/          
 │── server/         
@@ -35,6 +36,7 @@ career-mentor-platform/
 
 1️⃣ Clone the repository
 git clone https://github.com/LINGESHWARI22/career-mentor-platform.git
+
 cd career-mentor-platform
 
 2️⃣ Install dependencies
@@ -44,7 +46,9 @@ pnpm install   # or npm install
 
 
 Frontend
+
 cd client
+
 pnpm install   # or npm install
 
 3️⃣ Setup Environment Variables
@@ -73,5 +77,6 @@ Backend API → http://localhost:5000
  Mock Interview Simulator
  Mentor–Student Chat System (WebSockets)
  Job Recommendation Engine
+
 
 
